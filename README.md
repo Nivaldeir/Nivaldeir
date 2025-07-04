@@ -16,8 +16,8 @@ SOLID, Design Patterns, Clean Code e Clean Architecture. Além disso, atuo com C
 
 GitHub Actions e Jenkins, além de deploys em ambientes Serverless e Kubernetes.
 
-* 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [nivaldeir-silva@hotmail.co](mailto:nivaldeir-silva@hotmail.com)
+* 🌍  Atualmente moro em São Paulo Capital
+* ✉️  Você pode entrar em contato comigo em [nivaldeir-silva@hotmail.co](mailto:nivaldeir-silva@hotmail.com)
 
 ### Skills
 
@@ -35,7 +35,7 @@ GitHub Actions e Jenkins, além de deploys em ambientes Serverless e Kubernetes.
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Estatísticas do GitHub</b>
 
 <a href="http://www.github.com/nivaldeir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nivaldeir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
