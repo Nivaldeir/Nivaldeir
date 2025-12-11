@@ -6,7 +6,7 @@ Desenvolvedor (FullStack)
 
 Desenvolvedor Full Stack com mais de 3 anos de experiência, especializado no desenvolvimento
 
-de soluções escaláveis e de alta performance. Forte conhecimento em Node.js, NestJS, C# (.NET),
+de soluções escaláveis e de alta performance. Forte conhecimento em Node.js, NestJS, Nextjs, C# (.NET),
 
 React.js (Next.js), TypeScript, Prisma, APIs REST, GraphQL, Kafka, RabbitMQ, Jest, Docker,
 
